@@ -4,7 +4,7 @@
 int main()
 {
     int withdraw,Exit,choice,Nwithdraw;
-    int balance = 1000,deposit;
+    int balance = 1000,deposit; // chnages and doing pratice of fork prolly he will ask
 
 
 do{
